@@ -24,16 +24,11 @@
 24 24fan from 11gat >sa0 >sa1
 25 25fan from 11gat >sa0 >sa1
 26 26fan from 11gat >sa0 >sa1
-27 27gat not 10 1 >sa0 >sa1 
-	13
-28 28gat not 2 1 >sa0 >sa1 
-	16
-29 29gat not 2 1 >sa0 >sa1 
-	19
-30 30gat not 2 1 >sa0 >sa1 
-	22
-31 31gat not 2 1 >sa0 >sa1 
-	25
+27 27gat not 10 1 >sa0 >sa1 13
+28 28gat not 2 1 >sa0 >sa1 16
+29 29gat not 2 1 >sa0 >sa1 19
+30 30gat not 2 1 >sa0 >sa1 22
+31 31gat not 2 1 >sa0 >sa1 25
 32 32fan from 3gat >sa0 >sa1
 33 33fan from 3gat >sa0 >sa1
 34 34fan from 3gat >sa0 >sa1
@@ -156,20 +151,20 @@
 151 151fan from 14gat >sa0 >sa1
 152 152fan from 14gat >sa0 >sa1
 153 153gat buff 1 1 >sa0 >sa1 102
-154 154gat and 1 2 >sa0 >sa1 96	112
-155 155gat and 1 3 >sa0 >sa1 97	123	104
-156 156gat and 1 4 >sa0 >sa1 98	105	115	133
+154 154gat and 1 2 >sa0 >sa1 96 112
+155 155gat and 1 3 >sa0 >sa1 97 123 104
+156 156gat and 1 4 >sa0 >sa1 98 105 115 133
 157 157gat nand 1 5 >sa0 >sa1 99 106 116 127 148
 158 158gat nand 1 4 >sa0 >sa1 100 107 117 128
 159 159gat xor 1 2 >sa0 >sa1 101 103
 160 160gat and 1 5 >sa0 >sa1 149 129 118 108 138
 161 161gat and 1 4 >sa0 >sa1 119 109 134 139
-162 162gat and 1 3 >sa1 110	124	140
+162 162gat and 1 3 >sa1 110 124 140
 163 163gat and 1 2 >sa0 >sa1 114 141
 164 164gat xor 1 2 >sa0 >sa1 111 113
-165 165gat and 1 4 >sa1 150	130	120	142
+165 165gat and 1 4 >sa1 150 130 120 142
 166 166gat and 1 3 >sa0 >sa1 121 135 143
-167 167gat and 1 2 >sa1 125	144
+167 167gat and 1 2 >sa1 125 144
 168 168gat xor 1 2 >sa0 >sa1 122 126
 169 169gat and 1 3 >sa0 >sa1 151 131 145
 170 170gat and 1 2 >sa1 136	146
@@ -183,7 +178,7 @@
 178 178gat nor 1 4 >sa0 >sa1 160 161 162 163
 179 179gat nor 1 3 >sa0 >sa1 165 166 167
 180 180gat nor 1 2 >sa0 >sa1 169 170
-181 181gat or 1 2 >sa0 >sa1 176	177
+181 181gat or 1 2 >sa0 >sa1 176 177
 182 182gat xor 2 2 >sa0 >sa1 159 178
 183 183fan from 182gat >sa0 >sa1
 184 184fan from 182gat >sa0 >sa1
